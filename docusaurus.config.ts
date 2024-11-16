@@ -8,11 +8,11 @@ const beian = '闽ICP备2020017848号-2'
 const beian1 = '闽公网安备35021102000847号'
 
 const config: Config = {
-  title: '愧怍',
-  url: 'https://kuizuo.cn',
+  title: 'RAgroup',
+  url: 'https://blog3.ragroup.us.kg',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'kuizuo',
+  organizationName: 'RA',
   projectName: 'blog',
   customFields: {
     bio: '道阻且长，行则将至',
@@ -28,7 +28,7 @@ const config: Config = {
     metadata: [
       {
         name: 'author',
-        content: '愧怍',
+        content: 'RAGroup',
       },
       {
         name: 'keywords',
