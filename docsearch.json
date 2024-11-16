@@ -1,6 +1,6 @@
 {
   "index_name": "kuizuo",
-  "start_urls": ["https://blog3.ragroup.us.kg/"],
+  "start_urls": ["https://kuizuo.cn/"],
   "sitemap_urls": ["https://https://kuizuo.cn/sitemap.xml"],
   "selectors": {
     "lvl0": {
