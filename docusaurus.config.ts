@@ -303,4 +303,27 @@ Love what you do and do what you love.
   onBrokenLinks: 'warn',
 }
 
+export default {
+  i18n: {
+    defaultLocale: 'zh',
+    locales: ['zh', 'en'],
+    path: 'i18n',
+    localeConfigs: {
+      cn: {
+        label: 'Chinese_hk',
+        direction: 'ltr',
+        htmlLang: 'zh_hk',
+        calendar: 'gregory',
+        path: 'zh',
+      },
+      en: {
+        label: 'English',
+        direction: 'rtl',
+        htmlLang: 'en-GB',
+        calendar: 'gregory',
+        path: 'en',
+      },
+    },
+  },
+};
 export default config
