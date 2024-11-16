@@ -303,4 +303,17 @@ Love what you do and do what you love.
   onBrokenLinks: 'warn',
 }
 
+export default {
+  themeConfig: {
+    navbar: {
+      items: [
+        {
+          type: 'localeDropdown',
+          position: 'left',
+        },
+      ],
+    },
+  },
+};
+
 export default config
