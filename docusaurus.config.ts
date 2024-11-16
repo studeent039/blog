@@ -231,9 +231,9 @@ const config: Config = {
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         feedOptions: {
           type: 'all',
-          title: '愧怍',
+          title: 'RA',
           description: 'feedId:41215011978385457+userId:41840354283324416',
-          copyright: `Copyright © ${new Date().getFullYear()} 愧怍 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
+          copyright: `Copyright © ${new Date().getFullYear()} RAGroup Copyright © ${new Date().getFullYear()} 愧怍 Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">${beian}</a></p>`,
         },
       },
     ],
@@ -287,7 +287,7 @@ Love what you do and do what you love.
       tagName: 'meta',
       attributes: {
         name: 'description',
-        content: '愧怍的个人博客',
+        content: 'RA的博客',
       },
     },
   ],
